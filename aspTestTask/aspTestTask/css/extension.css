@@ -1,0 +1,45 @@
+.table-cell-padding>tbody>tr>td, 
+.table-cell-padding>tbody>tr>th, 
+.table-cell-padding>tfoot>tr>td, 
+.table-cell-padding>tfoot>tr>th, 
+.table-cell-padding>thead>tr>td, 
+.table-cell-padding>thead>tr>th {
+    padding: 12px;
+}
+.validating-false{
+	.border-color:#620303;
+}
+
+.search-result-hide{
+	display:none;
+}
+.with-button{
+	display: inline-block; 
+	text-align: right;
+}
+.main-first-row{
+	margin-left: auto; 
+	margin-right: auto; 
+	margin-top: 70px;
+}
+.main-row{
+	margin-left: auto; 
+	margin-right: auto; 
+}
+.main-lable{
+	margin-top: 3px; 
+	text-align: end;
+}
+.main-button{
+	margin-top: 2px;
+}
+.search-result-table{
+	width: 60%; 
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 70px;
+}
+.search-result-table-head{
+	text-align: left; 
+	background: #e1e0e0;
+}
